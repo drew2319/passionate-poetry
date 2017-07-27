@@ -1,0 +1,128 @@
+ /* fonts */
+@import url('https://fonts.googleapis.com/css?family=Bellefair|Lato');
+
+/* Header Styles */
+#poempic {
+    position: absolute;
+    height: 200px;
+    right: 40%;
+
+}
+
+h2{
+text-align:center;
+}
+
+nav{
+ right: 0;
+}
+
+.one {
+ background-color: red;
+ color: black;
+}
+
+.two {
+ background-color: blue;
+ color: green;
+}
+
+.three {
+ background-color: black;
+ color: red;
+}
+
+.four {
+ background-color: grey;
+ color: pink;
+}
+
+li{
+ height: 40px;
+ text-align: center;
+ border-radius: 10px 10px 0px 0px;
+}
+
+header{
+ height: 200px;
+ width: 100%;
+ }
+ 
+ .blog-links li{
+  list-style-type: none;
+ }
+ 
+ .blog-links li:hover{
+color: red;
+ }
+ 
+ .blog-links{
+margin: 0 auto;
+padding: 0px;
+ }
+ 
+ *{
+  box-sizing: border-box;
+ }
+ 
+ /* main section begins */
+ 
+ main {
+ width: 65%;
+  float: left;
+ }
+ 
+ .text-center{
+  text-align: center;
+ }
+ 
+
+
+.social-media {
+ color: grey;
+}
+.fa {
+ margin: 10px;
+}
+
+.fa-steam {
+ color: red;
+}
+
+.fa-deviantart {
+ color: black;
+}
+
+footer {
+ background-color: #333;
+ clear: both;
+}
+
+.p1 {
+position: absolute;
+left: 20%;
+top: 13%;
+}
+
+.p2 {
+  position:absolute;
+  right: 20%;
+  top: 13%;
+}
+
+ul {
+ list-style-type: none;  
+ padding: 0px;
+}
+
+.logo {
+     margin: 0 auto;   
+}
+
+.title {
+ text-align: center;   
+}
+
+html {
+ background-color: grey;</* Use something like a russet color */   
+}
